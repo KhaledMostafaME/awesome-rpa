@@ -15,7 +15,7 @@ I’m Khaled Mostafa, an RPA Developer passiont about learning and helping the c
 <h2 id="contents">Contents</h2>
 <ul>
 <li><a href="https://github.com/KhaledMostafaME/awesome-rpa#dlls">DLLs.</a></li>
-<li><a href="https://github.com/KhaledMostafaME/awesome-rpa#vbscripts-(vbs)">Vbscripts (VBS).</a></li>
+<li><a href="https://github.com/KhaledMostafaME/awesome-rpa#vbscripts">Vbscripts.</a></li>
 <li><a href="https://github.com/KhaledMostafaME/awesome-rpa#metabots">Metabots.</a></li>
 </ul>
 <h2 id="metabots">Metabots</h2>
