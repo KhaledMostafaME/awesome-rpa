@@ -20,7 +20,7 @@ I’m Khaled Mostafa, an RPA Developer passiont about learning and helping the c
 </ul>
 <h2 id="metabots">Metabots</h2>
 <h2 id="dlls">DLLs</h2>
-<h2 id="vbscripts-vbs">Vbscripts (VBS)</h2>
+<h2 id="vbscripts">Vbscripts</h2>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
